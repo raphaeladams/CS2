@@ -1,0 +1,77 @@
+cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Raphaels-MacBook-Pro:~ raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: basic word count test, this should be 9 words
+Number of words: 9
+Longest word was 6 characters long.
+Largest number of vowels in a word was 2
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: Which has more vowels: "AEIO" or "AEIOU"??
+Number of words: 7
+Longest word was 6 characters long.
+Largest number of vowels in a word was 5
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: Lone underscores ___ count as words in Google Docs
+Number of words: 9
+Longest word was 11 characters long.
+Largest number of vowels in a word was 4
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: Black Panther's real name is T'Challa
+Number of words: 6
+Longest word was 9 characters long.
+Largest number of vowels in a word was 2
+Raphaels-MacBook-Pro:Word Count raphaeladams$ 
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: 
+Number of words: 0
+Longest word was 0 characters long.
+Largest number of vowels in a word was 0
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: "She had an I-told-you-so look on her face"
+Number of words: 8
+Longest word was 13 characters long.
+Largest number of vowels in a word was 5
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: Technically you should double space after periods.  Like this
+Number of words: 9
+Longest word was 11 characters long.
+Largest number of vowels in a word was 3
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text:    
+Number of words: 0
+Longest word was 0 characters long.
+Largest number of vowels in a word was 0
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: '-'-'-'-''-
+Number of words: 0
+Longest word was 0 characters long.
+Largest number of vowels in a word was 0
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: Th3 qu1ck br0wn f0x jump5 0v3r th3 lazy d0g
+Number of words: 9
+Longest word was 5 characters long.
+Largest number of vowels in a word was 1
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: Wait -- what about lone dashes?
+Number of words: 5
+Longest word was 6 characters long.
+Largest number of vowels in a word was 3
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: )(&$*&^@)@(_)%&#(*&
+Number of words: 1
+Longest word was 1 characters long.
+Largest number of vowels in a word was 0
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: Would an emoticon contribute to word count? :) I hope not unless it includes letters, numbers, or underscores :D :-)
+Number of words: 18
+Longest word was 11 characters long.
+Largest number of vowels in a word was 4
+Raphaels-MacBook-Pro:Word Count raphaeladams$ cd "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/" && g++ wordCount.cpp -o wordCount && "/Users/raphaeladams/Desktop/CS2/Module 1/Word Count/"wordCount
+Enter text: oneWord
+Number of words: 1
+Longest word was 7 characters long.
+Largest number of vowels in a word was 3
+Raphaels-MacBook-Pro:Word Count raphaeladams$ 
